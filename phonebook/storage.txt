@@ -1,0 +1,10 @@
+Budi Santoso|08123456789|Jl. Sudirman No.12, Jakarta|budi.santoso@example.com|true
+Ani Wijaya|08234567890|Jl. Merdeka No.34, Bandung|ani.wijaya@example.com|false
+Wawan Hermawan|08345678901|Jl. Diponegoro No.56, Surabaya|wawan.hermawan@example.com|false
+Siti Nurhaliza|08456789012|Jl. Gatot Subroto No.78, Medan|siti.nurhaliza@example.com|false
+Rudi Hartono|08567890123|Jl. Gajah Mada No.90, Semarang|rudi.hartono@example.com|false
+Lina Marlina|08678901234|Jl. Palembang Raya No.11, Palembang|lina.marlina@example.com|true
+Agus Setiawan|08789012345|Jl. Tugu No.23, Malang|agus.setiawan@example.com|false
+Dewi Sartika|08890123456|Jl. Pajajaran No.45, Bogor|dewi.sartika@example.com|false
+Andi Prasetyo|08901234567|Jl. Malioboro No.67, Yogyakarta|andi.prasetyo@example.com|false
+Maya Anggraini|08012345678|Jl. Pekayon No.89, Bekasi|maya.anggraini@example.com|false
